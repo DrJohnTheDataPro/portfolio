@@ -19,7 +19,7 @@
 
 ## Data Analyst Portfolio Projects
 #### 1. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
-#### 2. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
+### 2. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
 #### 3. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
 
 ## Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
