@@ -27,7 +27,8 @@ I showcased proficiency in a diverse skillset:
 
 ### Part 1: *Data Wrangling with Python and Pandas*:
   * Leveraged Python and Pandas for initial data exploration and preprocessing, ensuring data readiness for further analysis.
-  * Data Preparation Step: [Click to see Jupyter Notebook on Github]([https://www.google.com/](https://github.com/drjohnakinyemi/bank-customers-data-analysis-and-insights/blob/main/jupyter-notebooks/Berka%20Bank%20Data%20Preparation%20-%20Part%201%20in%20Pandas%20and%20Python.ipynb))
+  * [Google](https://www.google.com/)
+  * Data Preparation Step: [Click to see Jupyter Notebook on Github](https://github.com/drjohnakinyemi/bank-customers-data-analysis-and-insights/blob/main/jupyter-notebooks/Berka%20Bank%20Data%20Preparation%20-%20Part%201%20in%20Pandas%20and%20Python.ipynb)
 
 ### Part 2: *SQL for Structured Data Management*:
   * Utilized SQL within MS SQL Server to efficiently load and preprocess the data within a structured environment.
