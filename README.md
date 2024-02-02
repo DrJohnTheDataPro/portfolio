@@ -39,6 +39,7 @@ I showcased proficiency in a diverse skillset:
 
 ### Part 4: *Visualization and Storytelling with Power BI*:
   * Transformed insights into a captivating Power BI report, employing clear and insightful visualizations to tell the story about loan balances, loan payments, and other banking transactions.
+  * Link: [Visualization on Power BI (Public)](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9).
 
 ### *Bonus: Jupyter Notebook Synergy:*
 
