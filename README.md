@@ -3,9 +3,9 @@
 ## Skills
  * Data Preprocessing: Data Wrangling and Data Cleaning.
  * Exploratory Data Analysis (EDA).
- * * Python, Pandas, Excel, Google Sheets
+  * Python, Pandas, Excel, Google Sheets
  * Data Story Telling and Visualizations.
- * * Power BI
+   - Power BI
  * Problem Solving.
  * Effective Communication.
  * Leadership.
