@@ -5,16 +5,17 @@
  * Computer Science, MSc, University of Manitoba
  * Computer Science, BTech, Federal University of Technology, Akure
 
-### Data Analyst Portfolio Project: Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
+### Data Analyst Portfolio Project: 
+### Topic: Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
 I showcased proficiency in a diverse skillset:
 
-Part 1: *Data Wrangling with Python and Pandas*:
+#### Part 1: Data Wrangling with Python and Pandas:
   * Leveraged Python and Pandas for initial data exploration and preprocessing, ensuring data readiness for further analysis.
 
-Part 2: *SQL for Structured Data Management*:
+#### Part 2: *SQL for Structured Data Management*:
   * Utilized SQL within MS SQL Server to efficiently load and preprocess the data within a structured environment.
 
-Part 3: *Exploratory Data Analysis with SQL, Python, and Pandas*:
+#### Part 3: *Exploratory Data Analysis with SQL, Python, and Pandas*:
   * Performed in-depth EDA directly within MS SQL Server, uncovering initial patterns and trends in the Transactions and Loan data.
 
 Part 4: *Visualization and Storytelling with Power BI*:
