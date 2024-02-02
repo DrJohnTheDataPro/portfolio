@@ -2,10 +2,11 @@
 
 ## Skills
  * Data Preprocessing: Data Wrangling and Data Cleaning.
+    - Python, Pandas, SQL, Excel, Google Sheets
  * Exploratory Data Analysis (EDA).
-  * Python, Pandas, Excel, Google Sheets
+   - Python, Pandas, SQL, Excel, Google Sheets
  * Data Story Telling and Visualizations.
-   - Power BI
+   - Power BI, Tableau
  * Problem Solving.
  * Effective Communication.
  * Leadership.
@@ -17,7 +18,9 @@
  * Computer Science, BTech, Federal University of Technology, Akure
 
 ## Data Analyst Portfolio Projects
-### 1. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
+#### 1. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
+#### 2. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
+#### 3. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
 
 ### Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
 I showcased proficiency in a diverse skillset:
