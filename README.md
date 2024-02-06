@@ -18,7 +18,7 @@
  * Computer Science, BTech, Federal University of Technology, Akure
 
 ## Data Analyst Portfolio Projects
-1. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
+1. [Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/links/d7gxcNKsSj?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare)
 2. [Analyzing GHG CO_2 Emissions Data from 1960 to 2021 in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/links/K-nhtZeWkk?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare)
 3. [Pizza Sales Dashboard using SQL and Power BI](https://app.powerbi.com/links/NYc9CGNRaR?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare)
 
@@ -39,7 +39,7 @@ I showcased proficiency in a diverse skillset:
 
 ### Part 4: *Visualization and Storytelling with Power BI*:
   * Transformed insights into a captivating Power BI report, employing clear and insightful visualizations to tell the story about loan balances, loan payments, and other banking transactions.
-  * Link: [Visualization on Power BI (Public)](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9).
+  * Link: [Visualization on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9).
 
 ### *Bonus: Jupyter Notebook Synergy:*
 
