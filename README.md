@@ -19,9 +19,10 @@
 
 ## Data Analyst Portfolio Projects
 ### 1. Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
-### 2. [Analyzing GHG CO_2 Emissions Data from 1960 to 2021 in Python, Pandas, SQL, and Power BI] 
-(https://app.powerbi.com/links/K-nhtZeWkk?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare)
-### 3. [Pizza Sales Dashboard using SQL and Power BI] (https://app.powerbi.com/links/NYc9CGNRaR?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare)
+### 2. Analyzing GHG CO_2 Emissions Data from 1960 to 2021 in Python, Pandas, SQL, and Power BI 
+https://app.powerbi.com/links/K-nhtZeWkk?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare
+### 3. Pizza Sales Dashboard using SQL and Power BI 
+https://app.powerbi.com/links/NYc9CGNRaR?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare
 
 ## Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
 I showcased proficiency in a diverse skillset:
