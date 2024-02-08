@@ -19,8 +19,7 @@
 
 ## Data Analyst Portfolio Projects
 1. [Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9)
-2. [Analyzing GHG CO<sub>2</sub> Emissions Data from 1960 to 2021 in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/links/K-nhtZeWkk?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare)
-3. [Link:](https://app.powerbi.com/groups/me/reports/b3c9c078-6bba-4da0-a023-ffa188764706/ReportSectionf76219f97de3a004ca07?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&experience=power-bi)
+2. [Analyzing GHG CO<sub>2</sub> Emissions Data from 1960 to 2021 in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDM3NjQwN2MtNjE3MC00NmFlLTgxNmYtODRkNjFiNDE5YmY4IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9)
 4. [Pizza Sales Dashboard using SQL and Power BI](https://app.powerbi.com/links/NYc9CGNRaR?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare)
 
 ### Hightlighted Portfolio Project: Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
