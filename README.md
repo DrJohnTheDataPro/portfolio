@@ -20,7 +20,7 @@
 ## Data Analyst Portfolio Projects
 1. [Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9)
 2. [Analyzing GHG CO<sub>2</sub> Emissions Data from 1960 to 2021 in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/view?r=eyJrIjoiZDM3NjQwN2MtNjE3MC00NmFlLTgxNmYtODRkNjFiNDE5YmY4IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9&pageName=ReportSectioned61da1368e0b043215a)
-4. [Pizza Sales Dashboard using SQL and Power BI](https://app.powerbi.com/links/NYc9CGNRaR?ctid=bde68213-7ad8-4421-b87a-15a92c993f5c&pbi_source=linkShare)
+4. [Pizza Sales Dashboard using SQL and Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTAwOTE5OGQtNTMwZC00MjJjLTg0M2YtODZjYjFiZjI3MTNmIiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9)
 
 ### Hightlighted Portfolio Project: Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
  * I showcased proficiency in a diverse skillset:
