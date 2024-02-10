@@ -10,11 +10,11 @@
 
 ### Step 3: Exploratory Data Analysis with SQL, Python, and Pandas
   * Performed in-depth EDA directly within MS SQL Server, uncovering initial patterns and trends in the Transactions and Loan data.
-  * Link: [Berka Bank Exploratory Data Analysis (EDA) in SQL. Click to see Jupyter Notebook on Github](https://github.com/drjohnakinyemi/bank-customers-data-analysis-and-insights/blob/main/jupyter-notebooks/Berka%20Bank%20Exploratory%20Data%20Analysis%20(EDA)%20in%20SQL.ipynb)
+  * Link: [Click to see Jupyter Notebook on Github](https://github.com/drjohnakinyemi/bank-customers-data-analysis-and-insights/blob/main/jupyter-notebooks/Berka%20Bank%20Exploratory%20Data%20Analysis%20(EDA)%20in%20SQL.ipynb)
 
 ### Step 4: Visualization and Storytelling with Power BI
   * Transformed insights into a captivating Power BI report, employing clear and insightful visualizations to tell the story about loan balances, loan payments, and other banking transactions.
-  * Link: [Visualization on Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9).
+  * Link: [Click to see the Visualization on Power BI Public](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9).
 
 ### Bonus: Jupyter Notebook Synergy
 
