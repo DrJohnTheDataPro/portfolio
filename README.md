@@ -1,25 +1,5 @@
-# Data Analyst
-
-## Skills
- * Data Preprocessing: Data Wrangling and Data Cleaning.
-    - Python, Pandas, SQL, Excel, Google Sheets
- * Exploratory Data Analysis (EDA).
-   - Python, Pandas, SQL, Excel, Google Sheets
- * Data Story Telling and Visualizations.
-   - Power BI, Tableau
- * Problem Solving.
- * Effective Communication.
- * Leadership.
- * Computer Programming: Python, JavaScript, C#, Java, etc.
-
-## Education
- * Computer Science, PhD, University of Waterloo
- * Computer Science, MSc, University of Manitoba
- * Computer Science, BTech, Federal University of Technology, Akure
-
 ## Data Analyst Portfolio Projects
-1. [Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9)
-2. [Pizza Sales Dashboard using SQL and Power BI](https://app.powerbi.com/view?r=eyJrIjoiMTAwOTE5OGQtNTMwZC00MjJjLTg0M2YtODZjYjFiZjI3MTNmIiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9)
+## [Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9)
 
 ### Hightlighted Portfolio Project: Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
  * I showcased proficiency in a diverse skillset:
