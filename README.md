@@ -1,6 +1,4 @@
-## Analyzing Bank Transaction Data 
-
-### Technologies: Python, Pandas, SQL, and Power BI
+## Analyzing Bank Transaction and Loans Data 
 
 ### Part 1: *Data Wrangling with Python and Pandas*:
   * Leveraged Python and Pandas for initial data exploration and preprocessing, ensuring data readiness for further analysis.
