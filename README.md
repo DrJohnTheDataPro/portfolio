@@ -1,8 +1,6 @@
-## Data Analyst Portfolio Projects
-## [Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDM4ZGIzNTgtZjViOS00YTcyLTk3ZjktMzU4MDkwNzU2MjA2IiwidCI6ImJkZTY4MjEzLTdhZDgtNDQyMS1iODdhLTE1YTkyYzk5M2Y1YyJ9)
+## Analyzing Bank Transaction Data 
 
-### Hightlighted Portfolio Project: Analyzing Bank Transaction Data in Python, Pandas, SQL, and Power BI
- * I showcased proficiency in a diverse skillset:
+### Technologies: Python, Pandas, SQL, and Power BI
 
 ### Part 1: *Data Wrangling with Python and Pandas*:
   * Leveraged Python and Pandas for initial data exploration and preprocessing, ensuring data readiness for further analysis.
