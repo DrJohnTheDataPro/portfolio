@@ -22,7 +22,7 @@
 
 ### *Key Achievements:*
 
-  * Developed DAX measures using filters to identify goo and bad loans as well as high value clients.
+  * Developed DAX measures using filters to identify good and bad loans as well as high value clients.
   * Created an interactive Power BI report with user-friendly visualizations, enabling exploration and analysis of trends within the bank dataset.
   * Delivered data-driven insights that could inform strategic decision-making regarding loan management and risk assessment.
 
