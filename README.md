@@ -25,9 +25,3 @@
   * Developed DAX measures using filters to identify good and bad loans as well as high value clients.
   * Created an interactive Power BI report with user-friendly visualizations, enabling exploration and analysis of trends within the bank dataset.
   * Delivered data-driven insights that could inform strategic decision-making regarding loan management and risk assessment.
-
-### *These projects are proof of my ability to:*
-
-  * Work independently across the entire data analysis lifecycle, from acquisition to storytelling.
-  * Master and integrate diverse data tools and technologies.
-  * Communicate complex data insights through captivating narratives and visualizations.
